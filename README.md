@@ -42,7 +42,3 @@
 <img align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycThvanVidnh2ZTVldWQwYWJhcnJmNDZqN2J3eHBodHd6a3pqeDZ0byZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/9ZNQFdD9Y1MIjmNZem/200w.webp"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/khaldppkh2/khaldppkh2/output/snake.svg" alt="Snake animation" />
-
-###
