@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <h2 align="left">Hi 👋! My name is KHALDand I'm a from Syria</h2>
 
 ###
@@ -39,17 +33,15 @@
 
 ###
 
-<img align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycThvanVidnh2ZTVldWQwYWJhcnJmNDZqN2J3eHBodHd6a3pqeDZ0byZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/9ZNQFdD9Y1MIjmNZem/200w.webp"  />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=khaldppkh2.khaldppkh2&left_color=aquamarine&right_color=aqua&left_text=Number%20of%20viewers%20"  />
 </div>
 
 ###
 
-<br clear="both">
+<img align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycThvanVidnh2ZTVldWQwYWJhcnJmNDZqN2J3eHBodHd6a3pqeDZ0byZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/9ZNQFdD9Y1MIjmNZem/200w.webp"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/khaldppkh2/khaldppkh2/output/snake.svg" alt="Snake animation" />
 
